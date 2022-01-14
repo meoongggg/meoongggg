@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Warna Dasar APP adalah Hijau
+    <color name="hijau">#4CAF50</color>
+    <color name="hijau_muda">#53FF5A</color>
+    <color name="hijau_mudabgt">#A2FFA5</color>
+
+    // warna padang
+    <color name="emas">#FFD700</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangedark">#FF4500</color>
+    <color name="tomato">#FF6347</color>
+    <color name="merah">#FF1100</color>
+
+    <color name="hitam">#FF000000</color>
+    <color name="putih">#FFFFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

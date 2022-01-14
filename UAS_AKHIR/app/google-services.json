@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820983125434",
+    "project_id": "aplikasi-makanan-4c2b3",
+    "storage_bucket": "aplikasi-makanan-4c2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820983125434:android:eb0215cbdafdf51568b983",
+        "android_client_info": {
+          "package_name": "com.example.tugasuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820983125434-orlsmckfskja56hpd48pp6oqq99cpbvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Fc3Tw30kkRMR5y5wm0Crr1Jbm8Di6O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820983125434-orlsmckfskja56hpd48pp6oqq99cpbvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
